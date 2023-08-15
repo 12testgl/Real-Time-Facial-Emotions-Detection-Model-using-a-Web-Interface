@@ -82,7 +82,7 @@ You need to have installed following softwares and libraries in your machine bef
 6.Atom: Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows. 
 
 # Project Structure 
-1. Locating faces in the scene 
+1. Locating faces in the scenes 
 
 2. Extracting facial features from the detected face region 
 
